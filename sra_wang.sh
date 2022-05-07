@@ -11,9 +11,9 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
-
+SCRATCH_DIR = /global/scratch/users/chandlersutherland/e12/wang_athaliana
 module load sra-tools
 for ((i = 186; i <= 248; i++))
 	do 
-	fasterq-dump -O /global/scratch/users/chandlersutherland/e12/wang_athaliana -p SRR8367$i
+	fasterq-dump -O $SCRATCH_DIR -t $SCRATCH_DIR -p SRR8367$i
 done 
