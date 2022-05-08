@@ -15,8 +15,7 @@ module load python
 module load sra-tools
 SCRATCH_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana
 
-for ((i = 186; i <= 248; i++))
+for ((i = 185; i <= 248; i++))
 	do 
-	fasterq-dump -O $SCRATCH_DIR -t $SCRATCH_DIR -p SRR8367$i
+	fasterq-dump --threads $SLURM_NTASKS -O $SCRATCH_DIR -t $SCRATCH_DIR -p SRR8367$i
 done 
-case 
