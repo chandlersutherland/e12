@@ -11,6 +11,8 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
+## download the sra files for wang 2019 recursively. This is about half but in total it took like 30 hours  
+
 module load python
 module load sra-tools
 SCRATCH_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana
