@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.ncbi.nlm.nih.gov/Traces/study/?query_key=3&WebEnv=MCID_62be11b5518e276b094f302d&o=acc_s%3Aa
+HostUrl=https://www.ncbi.nlm.nih.gov/Traces/solr-proxy-be/solr-proxy-be.cgi?core=run_sel_index
