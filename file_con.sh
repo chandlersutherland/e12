@@ -27,14 +27,14 @@ do
 	echo "beginning SRR8367${i}"
 	#convert to bam, sort, and index 
 	samtools view -@ $SLURM_NTASKS -b $INPUT_DIR/aln_SRR8367"${i}".sam |\
-	samtools sort -@ $SLURM_NTASKS > $OUTPUT_BAM
+	samtools sort -@ $SLURM_NTASKS -T $OUTPUT_DIR/temp > $OUTPUT_BAM
 	samtools index -@ $SLURM_NTASKS $OUTPUT_BAM
 	
 	#generate mapping statistics 
 	SRA=SRR8367"${i}"
-	MEAN_READ_DEPTH=samtools depth -a $OUTPUT_BAM | awk '{c++;s+=$3}END{print s/c}'
-	BREADTH=samtools depth -a $OUTPUT_BAM | awk '{c++; if($3>0) total+=1}END{print (total/c)*100}'
-	PROP=samtools flagstat $OUTPUT_BAM | awk -F "[(|%]" 'NR == 3 {print $2}'
+	MEAN_READ_DEPTH=$(samtools depth -a $OUTPUT_BAM | awk '{c++;s+=$3}END{print s/c}')
+	BREADTH=$(samtools depth -a $OUTPUT_BAM | awk '{c++; if($3>0) total+=1}END{print (total/c)*100}')
+	PROP=$(samtools flagstat $OUTPUT_BAM | awk -F "[(|%]" 'NR == 3 {print $2}')
 	echo "${SRA},${MEAN_READ_DEPTH},${BREADTH},${PROP}" >> $OUTPUT_DIR/mapping_stats.csv
 	echo "SRR8367${i} converted and mapping statistics written to mapping_stats.csv"
 done
