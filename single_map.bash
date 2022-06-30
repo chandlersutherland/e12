@@ -20,4 +20,4 @@ REF_GENOME=/global/scratch/users/chandlersutherland/phytozome/Athaliana/Araport1
 
 #bwa index $REF_GENOME 
  
-bwa mem -n $SLURM_NTASKS $REF_GENOME $INPUT_DIR/SRR8367185_1.fastq $INPUT_DIR/SRR8367185_2.fastq > $OUTPUT_DIR/aln_SRR8367185.sam
+bwa mem -t $SLURM_NTASKS $REF_GENOME $INPUT_DIR/SRR8367185_1.fastq $INPUT_DIR/SRR8367185_2.fastq > $OUTPUT_DIR/aln_SRR8367185.sam
