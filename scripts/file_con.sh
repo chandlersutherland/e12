@@ -5,7 +5,7 @@
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
-#SBATCH --time=04:00:00
+#SBATCH --time=02:00:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
@@ -19,9 +19,9 @@ OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorte
 #first, convert from sam to bam file using samtools view. Then, sort and index each file. 
 #With the bam file, I can compute summary statistics and save them in a .tsv file 
 
-echo "sra,mean_read_depth,breadth,prop" > $OUTPUT_DIR/mapping_stats.csv
+#echo "sra,mean_read_depth,breadth,prop" > $OUTPUT_DIR/mapping_stats.csv
  
-for ((i = 185; i <= 248; i++))
+for ((i = 227; i <= 248; i++))
 do 
 	OUTPUT_BAM=$OUTPUT_DIR/aln_SRR8367"${i}".bam
 	echo "beginning SRR8367${i}"
