@@ -11,7 +11,9 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
-singularity run docker://broadinstitute/gatk
+cd
+
+singularity run gatk_latest.sif
 cd /gatk 
 
 for ((i = 185; i <= 248; i++))
