@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=markdup
+#SBATCH --job-name=singularity
 #SBATCH --account=ac_kvkallow
 #SBATCH --partition=savio2
 #SBATCH --qos=savio_normal
