@@ -1,0 +1,1152 @@
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367185.bam
+READ: 45497839
+WRITTEN: 45497839
+EXCLUDED: 2828389
+EXAMINED: 42669450
+PAIRED: 42652366
+SINGLE: 17084
+DUPLICATE PAIR: 7985604
+DUPLICATE SINGLE: 9727
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7995331
+DUPLICATE TOTAL: 7995331
+ESTIMATED_LIBRARY_SIZE: 49597335
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367186.bam
+READ: 40101951
+WRITTEN: 40101951
+EXCLUDED: 135672
+EXAMINED: 39966279
+PAIRED: 39962992
+SINGLE: 3287
+DUPLICATE PAIR: 4869976
+DUPLICATE SINGLE: 957
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4870933
+DUPLICATE TOTAL: 4870933
+ESTIMATED_LIBRARY_SIZE: 75178661
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367187.bam
+READ: 48876262
+WRITTEN: 48876262
+EXCLUDED: 1617764
+EXAMINED: 47258498
+PAIRED: 47245366
+SINGLE: 13132
+DUPLICATE PAIR: 8516388
+DUPLICATE SINGLE: 6436
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 8522824
+DUPLICATE TOTAL: 8522824
+ESTIMATED_LIBRARY_SIZE: 57387699
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367188.bam
+READ: 60033868
+WRITTEN: 60033868
+EXCLUDED: 2237349
+EXAMINED: 57796519
+PAIRED: 57779732
+SINGLE: 16787
+DUPLICATE PAIR: 12569742
+DUPLICATE SINGLE: 9609
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 12579351
+DUPLICATE TOTAL: 12579351
+ESTIMATED_LIBRARY_SIZE: 56372842
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367189.bam
+READ: 69328937
+WRITTEN: 69328937
+EXCLUDED: 5407425
+EXAMINED: 63921512
+PAIRED: 63877162
+SINGLE: 44350
+DUPLICATE PAIR: 13542824
+DUPLICATE SINGLE: 24695
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 13567519
+DUPLICATE TOTAL: 13567519
+ESTIMATED_LIBRARY_SIZE: 64249965
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367190.bam
+READ: 69159614
+WRITTEN: 69159614
+EXCLUDED: 616800
+EXAMINED: 68542814
+PAIRED: 68499416
+SINGLE: 43398
+DUPLICATE PAIR: 12845894
+DUPLICATE SINGLE: 20284
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 12866178
+DUPLICATE TOTAL: 12866178
+ESTIMATED_LIBRARY_SIZE: 79502257
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367191.bam
+READ: 35803851
+WRITTEN: 35803851
+EXCLUDED: 183416
+EXAMINED: 35620435
+PAIRED: 35616792
+SINGLE: 3643
+DUPLICATE PAIR: 5092092
+DUPLICATE SINGLE: 1215
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5093307
+DUPLICATE TOTAL: 5093307
+ESTIMATED_LIBRARY_SIZE: 56191168
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367192.bam
+READ: 55811757
+WRITTEN: 55811757
+EXCLUDED: 173449
+EXAMINED: 55638308
+PAIRED: 55633074
+SINGLE: 5234
+DUPLICATE PAIR: 12443982
+DUPLICATE SINGLE: 2308
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 12446290
+DUPLICATE TOTAL: 12446290
+ESTIMATED_LIBRARY_SIZE: 52512969
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367193.bam
+READ: 55419860
+WRITTEN: 55419860
+EXCLUDED: 193689
+EXAMINED: 55226171
+PAIRED: 55220200
+SINGLE: 5971
+DUPLICATE PAIR: 11662232
+DUPLICATE SINGLE: 2523
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 11664755
+DUPLICATE TOTAL: 11664755
+ESTIMATED_LIBRARY_SIZE: 55796452
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367194.bam
+READ: 64093770
+WRITTEN: 64093770
+EXCLUDED: 349463
+EXAMINED: 63744307
+PAIRED: 63736404
+SINGLE: 7903
+DUPLICATE PAIR: 14078768
+DUPLICATE SINGLE: 3478
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 14082246
+DUPLICATE TOTAL: 14082246
+ESTIMATED_LIBRARY_SIZE: 61067730
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367195.bam
+READ: 57038237
+WRITTEN: 57038237
+EXCLUDED: 216004
+EXAMINED: 56822233
+PAIRED: 56815722
+SINGLE: 6511
+DUPLICATE PAIR: 11054518
+DUPLICATE SINGLE: 2719
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 11057237
+DUPLICATE TOTAL: 11057237
+ESTIMATED_LIBRARY_SIZE: 63189364
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367196.bam
+READ: 35296216
+WRITTEN: 35296216
+EXCLUDED: 284045
+EXAMINED: 35012171
+PAIRED: 34995384
+SINGLE: 16787
+DUPLICATE PAIR: 6326748
+DUPLICATE SINGLE: 7509
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6334257
+DUPLICATE TOTAL: 6334257
+ESTIMATED_LIBRARY_SIZE: 42365215
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367197.bam
+READ: 33056630
+WRITTEN: 33056630
+EXCLUDED: 289897
+EXAMINED: 32766733
+PAIRED: 32749618
+SINGLE: 17115
+DUPLICATE PAIR: 5121704
+DUPLICATE SINGLE: 7230
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5128934
+DUPLICATE TOTAL: 5128934
+ESTIMATED_LIBRARY_SIZE: 46738764
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367198.bam
+READ: 33262384
+WRITTEN: 33262384
+EXCLUDED: 588283
+EXAMINED: 32674101
+PAIRED: 32656578
+SINGLE: 17523
+DUPLICATE PAIR: 5243434
+DUPLICATE SINGLE: 7693
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5251127
+DUPLICATE TOTAL: 5251127
+ESTIMATED_LIBRARY_SIZE: 45244622
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367199.bam
+READ: 68816224
+WRITTEN: 68816224
+EXCLUDED: 324703
+EXAMINED: 68491521
+PAIRED: 68483380
+SINGLE: 8141
+DUPLICATE PAIR: 16966908
+DUPLICATE SINGLE: 3979
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 16970887
+DUPLICATE TOTAL: 16970887
+ESTIMATED_LIBRARY_SIZE: 57144617
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367200.bam
+READ: 32972717
+WRITTEN: 32972717
+EXCLUDED: 938442
+EXAMINED: 32034275
+PAIRED: 32026786
+SINGLE: 7489
+DUPLICATE PAIR: 5657072
+DUPLICATE SINGLE: 3639
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5660711
+DUPLICATE TOTAL: 5660711
+ESTIMATED_LIBRARY_SIZE: 39817133
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367201.bam
+READ: 49782029
+WRITTEN: 49782029
+EXCLUDED: 140591
+EXAMINED: 49641438
+PAIRED: 49638014
+SINGLE: 3424
+DUPLICATE PAIR: 9864910
+DUPLICATE SINGLE: 1323
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 9866233
+DUPLICATE TOTAL: 9866233
+ESTIMATED_LIBRARY_SIZE: 53861248
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367202.bam
+READ: 33406323
+WRITTEN: 33406323
+EXCLUDED: 4286715
+EXAMINED: 29119608
+PAIRED: 29092590
+SINGLE: 27018
+DUPLICATE PAIR: 4923306
+DUPLICATE SINGLE: 14612
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4937918
+DUPLICATE TOTAL: 4937918
+ESTIMATED_LIBRARY_SIZE: 37978713
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367203.bam
+READ: 48786300
+WRITTEN: 48786300
+EXCLUDED: 179674
+EXAMINED: 48606626
+PAIRED: 48602670
+SINGLE: 3956
+DUPLICATE PAIR: 7035952
+DUPLICATE SINGLE: 1237
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7037189
+DUPLICATE TOTAL: 7037189
+ESTIMATED_LIBRARY_SIZE: 75621289
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367204.bam
+READ: 44948345
+WRITTEN: 44948345
+EXCLUDED: 358210
+EXAMINED: 44590135
+PAIRED: 44585068
+SINGLE: 5067
+DUPLICATE PAIR: 6322980
+DUPLICATE SINGLE: 1538
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6324518
+DUPLICATE TOTAL: 6324518
+ESTIMATED_LIBRARY_SIZE: 70974217
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367205.bam
+READ: 38343108
+WRITTEN: 38343108
+EXCLUDED: 128805
+EXAMINED: 38214303
+PAIRED: 38210982
+SINGLE: 3321
+DUPLICATE PAIR: 4868684
+DUPLICATE SINGLE: 1033
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4869717
+DUPLICATE TOTAL: 4869717
+ESTIMATED_LIBRARY_SIZE: 68459197
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367206.bam
+READ: 35471484
+WRITTEN: 35471484
+EXCLUDED: 152375
+EXAMINED: 35319109
+PAIRED: 35315972
+SINGLE: 3137
+DUPLICATE PAIR: 3969826
+DUPLICATE SINGLE: 879
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 3970705
+DUPLICATE TOTAL: 3970705
+ESTIMATED_LIBRARY_SIZE: 72540191
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367207.bam
+READ: 50432112
+WRITTEN: 50432112
+EXCLUDED: 2862471
+EXAMINED: 47569641
+PAIRED: 47548362
+SINGLE: 21279
+DUPLICATE PAIR: 10627748
+DUPLICATE SINGLE: 11631
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 10639379
+DUPLICATE TOTAL: 10639379
+ESTIMATED_LIBRARY_SIZE: 44921211
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367208.bam
+READ: 30783571
+WRITTEN: 30783571
+EXCLUDED: 119055
+EXAMINED: 30664516
+PAIRED: 30662012
+SINGLE: 2504
+DUPLICATE PAIR: 4266920
+DUPLICATE SINGLE: 839
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4267759
+DUPLICATE TOTAL: 4267759
+ESTIMATED_LIBRARY_SIZE: 49845601
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367209.bam
+READ: 30519903
+WRITTEN: 30519903
+EXCLUDED: 94025
+EXAMINED: 30425878
+PAIRED: 30423784
+SINGLE: 2094
+DUPLICATE PAIR: 4214424
+DUPLICATE SINGLE: 622
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4215046
+DUPLICATE TOTAL: 4215046
+ESTIMATED_LIBRARY_SIZE: 49709829
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367210.bam
+READ: 29206902
+WRITTEN: 29206902
+EXCLUDED: 87220
+EXAMINED: 29119682
+PAIRED: 29117676
+SINGLE: 2006
+DUPLICATE PAIR: 4065828
+DUPLICATE SINGLE: 545
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4066373
+DUPLICATE TOTAL: 4066373
+ESTIMATED_LIBRARY_SIZE: 47156834
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367211.bam
+READ: 29279589
+WRITTEN: 29279589
+EXCLUDED: 470657
+EXAMINED: 28808932
+PAIRED: 28803352
+SINGLE: 5580
+DUPLICATE PAIR: 5098344
+DUPLICATE SINGLE: 2543
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5100887
+DUPLICATE TOTAL: 5100887
+ESTIMATED_LIBRARY_SIZE: 35724132
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367212.bam
+READ: 32101160
+WRITTEN: 32101160
+EXCLUDED: 328425
+EXAMINED: 31772735
+PAIRED: 31754192
+SINGLE: 18543
+DUPLICATE PAIR: 4380908
+DUPLICATE SINGLE: 7059
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4387967
+DUPLICATE TOTAL: 4387967
+ESTIMATED_LIBRARY_SIZE: 52117150
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367213.bam
+READ: 66643068
+WRITTEN: 66643068
+EXCLUDED: 9837830
+EXAMINED: 56805238
+PAIRED: 56745248
+SINGLE: 59990
+DUPLICATE PAIR: 13097486
+DUPLICATE SINGLE: 37607
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 13135093
+DUPLICATE TOTAL: 13135093
+ESTIMATED_LIBRARY_SIZE: 51588146
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367214.bam
+READ: 49408644
+WRITTEN: 49408644
+EXCLUDED: 3626509
+EXAMINED: 45782135
+PAIRED: 45760644
+SINGLE: 21491
+DUPLICATE PAIR: 9383826
+DUPLICATE SINGLE: 12447
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 9396273
+DUPLICATE TOTAL: 9396273
+ESTIMATED_LIBRARY_SIZE: 47867908
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367215.bam
+READ: 32878858
+WRITTEN: 32878858
+EXCLUDED: 612152
+EXAMINED: 32266706
+PAIRED: 32259816
+SINGLE: 6890
+DUPLICATE PAIR: 5847430
+DUPLICATE SINGLE: 3020
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5850450
+DUPLICATE TOTAL: 5850450
+ESTIMATED_LIBRARY_SIZE: 38936762
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367216.bam
+READ: 32728121
+WRITTEN: 32728121
+EXCLUDED: 936954
+EXAMINED: 31791167
+PAIRED: 31783044
+SINGLE: 8123
+DUPLICATE PAIR: 5832378
+DUPLICATE SINGLE: 3932
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5836310
+DUPLICATE TOTAL: 5836310
+ESTIMATED_LIBRARY_SIZE: 37822456
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367217.bam
+READ: 29520689
+WRITTEN: 29520689
+EXCLUDED: 657930
+EXAMINED: 28862759
+PAIRED: 28856742
+SINGLE: 6017
+DUPLICATE PAIR: 5164830
+DUPLICATE SINGLE: 2675
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5167505
+DUPLICATE TOTAL: 5167505
+ESTIMATED_LIBRARY_SIZE: 35338318
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367218.bam
+READ: 30954039
+WRITTEN: 30954039
+EXCLUDED: 788595
+EXAMINED: 30165444
+PAIRED: 30157658
+SINGLE: 7786
+DUPLICATE PAIR: 5256310
+DUPLICATE SINGLE: 3349
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5259659
+DUPLICATE TOTAL: 5259659
+ESTIMATED_LIBRARY_SIZE: 38069117
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367219.bam
+READ: 35014121
+WRITTEN: 35014121
+EXCLUDED: 637357
+EXAMINED: 34376764
+PAIRED: 34369498
+SINGLE: 7266
+DUPLICATE PAIR: 6195470
+DUPLICATE SINGLE: 3314
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6198784
+DUPLICATE TOTAL: 6198784
+ESTIMATED_LIBRARY_SIZE: 41747187
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367220.bam
+READ: 29436823
+WRITTEN: 29436823
+EXCLUDED: 1798990
+EXAMINED: 27637833
+PAIRED: 27621154
+SINGLE: 16679
+DUPLICATE PAIR: 4991740
+DUPLICATE SINGLE: 9631
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5001371
+DUPLICATE TOTAL: 5001371
+ESTIMATED_LIBRARY_SIZE: 33452119
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367221.bam
+READ: 48043247
+WRITTEN: 48043247
+EXCLUDED: 5232085
+EXAMINED: 42811162
+PAIRED: 42784432
+SINGLE: 26730
+DUPLICATE PAIR: 8059740
+DUPLICATE SINGLE: 16223
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 8075963
+DUPLICATE TOTAL: 8075963
+ESTIMATED_LIBRARY_SIZE: 49398963
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367222.bam
+READ: 38946873
+WRITTEN: 38946873
+EXCLUDED: 810436
+EXAMINED: 38136437
+PAIRED: 38129448
+SINGLE: 6989
+DUPLICATE PAIR: 7149614
+DUPLICATE SINGLE: 3294
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7152908
+DUPLICATE TOTAL: 7152908
+ESTIMATED_LIBRARY_SIZE: 44260573
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367223.bam
+READ: 35708421
+WRITTEN: 35708421
+EXCLUDED: 87583
+EXAMINED: 35620838
+PAIRED: 35618638
+SINGLE: 2200
+DUPLICATE PAIR: 5887742
+DUPLICATE SINGLE: 690
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5888432
+DUPLICATE TOTAL: 5888432
+ESTIMATED_LIBRARY_SIZE: 47753642
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367224.bam
+READ: 33657112
+WRITTEN: 33657112
+EXCLUDED: 88679
+EXAMINED: 33568433
+PAIRED: 33566104
+SINGLE: 2329
+DUPLICATE PAIR: 5378224
+DUPLICATE SINGLE: 733
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5378957
+DUPLICATE TOTAL: 5378957
+ESTIMATED_LIBRARY_SIZE: 46614401
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367225.bam
+READ: 41166828
+WRITTEN: 41166828
+EXCLUDED: 1666540
+EXAMINED: 39500288
+PAIRED: 39488224
+SINGLE: 12064
+DUPLICATE PAIR: 7352330
+DUPLICATE SINGLE: 6166
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7358496
+DUPLICATE TOTAL: 7358496
+ESTIMATED_LIBRARY_SIZE: 46212476
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367226.bam
+READ: 42044600
+WRITTEN: 42044600
+EXCLUDED: 111039
+EXAMINED: 41933561
+PAIRED: 41930426
+SINGLE: 3135
+DUPLICATE PAIR: 6644048
+DUPLICATE SINGLE: 939
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6644987
+DUPLICATE TOTAL: 6644987
+ESTIMATED_LIBRARY_SIZE: 58965050
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367227.bam
+READ: 35757670
+WRITTEN: 35757670
+EXCLUDED: 123601
+EXAMINED: 35634069
+PAIRED: 35631062
+SINGLE: 3007
+DUPLICATE PAIR: 4708954
+DUPLICATE SINGLE: 849
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4709803
+DUPLICATE TOTAL: 4709803
+ESTIMATED_LIBRARY_SIZE: 61322613
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367228.bam
+READ: 39177360
+WRITTEN: 39177360
+EXCLUDED: 112300
+EXAMINED: 39065060
+PAIRED: 39062000
+SINGLE: 3060
+DUPLICATE PAIR: 5966802
+DUPLICATE SINGLE: 920
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5967722
+DUPLICATE TOTAL: 5967722
+ESTIMATED_LIBRARY_SIZE: 57239255
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367229.bam
+READ: 42896232
+WRITTEN: 42896232
+EXCLUDED: 117120
+EXAMINED: 42779112
+PAIRED: 42775912
+SINGLE: 3200
+DUPLICATE PAIR: 6381138
+DUPLICATE SINGLE: 1037
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6382175
+DUPLICATE TOTAL: 6382175
+ESTIMATED_LIBRARY_SIZE: 64364751
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367230.bam
+READ: 40912041
+WRITTEN: 40912041
+EXCLUDED: 157452
+EXAMINED: 40754589
+PAIRED: 40750998
+SINGLE: 3591
+DUPLICATE PAIR: 6037764
+DUPLICATE SINGLE: 1064
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6038828
+DUPLICATE TOTAL: 6038828
+ESTIMATED_LIBRARY_SIZE: 61786440
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367231.bam
+READ: 37518648
+WRITTEN: 37518648
+EXCLUDED: 102688
+EXAMINED: 37415960
+PAIRED: 37413174
+SINGLE: 2786
+DUPLICATE PAIR: 5449930
+DUPLICATE SINGLE: 799
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5450729
+DUPLICATE TOTAL: 5450729
+ESTIMATED_LIBRARY_SIZE: 57809379
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367232.bam
+READ: 39416226
+WRITTEN: 39416226
+EXCLUDED: 158609
+EXAMINED: 39257617
+PAIRED: 39254190
+SINGLE: 3427
+DUPLICATE PAIR: 5303762
+DUPLICATE SINGLE: 1023
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5304785
+DUPLICATE TOTAL: 5304785
+ESTIMATED_LIBRARY_SIZE: 65930632
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367233.bam
+READ: 37268271
+WRITTEN: 37268271
+EXCLUDED: 108209
+EXAMINED: 37160062
+PAIRED: 37157126
+SINGLE: 2936
+DUPLICATE PAIR: 5620790
+DUPLICATE SINGLE: 837
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5621627
+DUPLICATE TOTAL: 5621627
+ESTIMATED_LIBRARY_SIZE: 55045257
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367234.bam
+READ: 41676075
+WRITTEN: 41676075
+EXCLUDED: 117858
+EXAMINED: 41558217
+PAIRED: 41554916
+SINGLE: 3301
+DUPLICATE PAIR: 6408332
+DUPLICATE SINGLE: 1070
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6409402
+DUPLICATE TOTAL: 6409402
+ESTIMATED_LIBRARY_SIZE: 60245685
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367235.bam
+READ: 43976832
+WRITTEN: 43976832
+EXCLUDED: 132389
+EXAMINED: 43844443
+PAIRED: 43841592
+SINGLE: 2851
+DUPLICATE PAIR: 7927992
+DUPLICATE SINGLE: 1012
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7929004
+DUPLICATE TOTAL: 7929004
+ESTIMATED_LIBRARY_SIZE: 53059367
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367236.bam
+READ: 38809736
+WRITTEN: 38809736
+EXCLUDED: 124016
+EXAMINED: 38685720
+PAIRED: 38683336
+SINGLE: 2384
+DUPLICATE PAIR: 7082284
+DUPLICATE SINGLE: 822
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7083106
+DUPLICATE TOTAL: 7083106
+ESTIMATED_LIBRARY_SIZE: 46156082
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367237.bam
+READ: 44353798
+WRITTEN: 44353798
+EXCLUDED: 183504
+EXAMINED: 44170294
+PAIRED: 44166716
+SINGLE: 3578
+DUPLICATE PAIR: 6193242
+DUPLICATE SINGLE: 1100
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6194342
+DUPLICATE TOTAL: 6194342
+ESTIMATED_LIBRARY_SIZE: 71195677
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367238.bam
+READ: 46918399
+WRITTEN: 46918399
+EXCLUDED: 339035
+EXAMINED: 46579364
+PAIRED: 46574252
+SINGLE: 5112
+DUPLICATE PAIR: 7295996
+DUPLICATE SINGLE: 1684
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 7297680
+DUPLICATE TOTAL: 7297680
+ESTIMATED_LIBRARY_SIZE: 66343126
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367239.bam
+READ: 35809544
+WRITTEN: 35809544
+EXCLUDED: 168198
+EXAMINED: 35641346
+PAIRED: 35638226
+SINGLE: 3120
+DUPLICATE PAIR: 5720520
+DUPLICATE SINGLE: 1070
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5721590
+DUPLICATE TOTAL: 5721590
+ESTIMATED_LIBRARY_SIZE: 49391717
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367240.bam
+READ: 45295866
+WRITTEN: 45295866
+EXCLUDED: 276410
+EXAMINED: 45019456
+PAIRED: 45014504
+SINGLE: 4952
+DUPLICATE PAIR: 6146914
+DUPLICATE SINGLE: 1596
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6148510
+DUPLICATE TOTAL: 6148510
+ESTIMATED_LIBRARY_SIZE: 74724638
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367241.bam
+READ: 36612989
+WRITTEN: 36612989
+EXCLUDED: 131097
+EXAMINED: 36481892
+PAIRED: 36478918
+SINGLE: 2974
+DUPLICATE PAIR: 4981500
+DUPLICATE SINGLE: 868
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4982368
+DUPLICATE TOTAL: 4982368
+ESTIMATED_LIBRARY_SIZE: 60553375
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367242.bam
+READ: 31668511
+WRITTEN: 31668511
+EXCLUDED: 95958
+EXAMINED: 31572553
+PAIRED: 31570148
+SINGLE: 2405
+DUPLICATE PAIR: 4677472
+DUPLICATE SINGLE: 674
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 4678146
+DUPLICATE TOTAL: 4678146
+ESTIMATED_LIBRARY_SIZE: 47866892
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367243.bam
+READ: 29366656
+WRITTEN: 29366656
+EXCLUDED: 130425
+EXAMINED: 29236231
+PAIRED: 29233770
+SINGLE: 2461
+DUPLICATE PAIR: 6260014
+DUPLICATE SINGLE: 867
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 6260881
+DUPLICATE TOTAL: 6260881
+ESTIMATED_LIBRARY_SIZE: 29060430
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367244.bam
+READ: 36147663
+WRITTEN: 36147663
+EXCLUDED: 150262
+EXAMINED: 35997401
+PAIRED: 35994104
+SINGLE: 3297
+DUPLICATE PAIR: 5013632
+DUPLICATE SINGLE: 1003
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5014635
+DUPLICATE TOTAL: 5014635
+ESTIMATED_LIBRARY_SIZE: 58452941
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367245.bam
+READ: 52634038
+WRITTEN: 52634038
+EXCLUDED: 2072595
+EXAMINED: 50561443
+PAIRED: 50546392
+SINGLE: 15051
+DUPLICATE PAIR: 10554954
+DUPLICATE SINGLE: 8735
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 10563689
+DUPLICATE TOTAL: 10563689
+ESTIMATED_LIBRARY_SIZE: 51759503
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+[bam_sort_core] merging from 24 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367246.bam
+READ: 54493415
+WRITTEN: 54493415
+EXCLUDED: 3225311
+EXAMINED: 51268104
+PAIRED: 51244626
+SINGLE: 23478
+DUPLICATE PAIR: 10524668
+DUPLICATE SINGLE: 13146
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 10537814
+DUPLICATE TOTAL: 10537814
+ESTIMATED_LIBRARY_SIZE: 53507219
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367247.bam
+READ: 34158636
+WRITTEN: 34158636
+EXCLUDED: 131717
+EXAMINED: 34026919
+PAIRED: 34024706
+SINGLE: 2213
+DUPLICATE PAIR: 5904262
+DUPLICATE SINGLE: 722
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5904984
+DUPLICATE TOTAL: 5904984
+ESTIMATED_LIBRARY_SIZE: 43166867
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+[bam_sort_core] merging from 0 files and 24 in-memory blocks...
+COMMAND: samtools markdup -T /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted/temp3 -s -@ 24 - /global/scratch/users/chandlersutherland/e12/wang_athaliana/marked/markdup_SRR8367248.bam
+READ: 34048297
+WRITTEN: 34048297
+EXCLUDED: 1213116
+EXAMINED: 32835181
+PAIRED: 32823200
+SINGLE: 11981
+DUPLICATE PAIR: 5732242
+DUPLICATE SINGLE: 5736
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 5737978
+DUPLICATE TOTAL: 5737978
+ESTIMATED_LIBRARY_SIZE: 41340380
