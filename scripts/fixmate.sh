@@ -2,7 +2,7 @@
 
 cd /gatk 
 
-for ((i = 185; i <= 248; i++))
+for ((i = 228; i <= 248; i++))
 do 
 	echo "beginning SRR8367${i}" date +%T
 	#name sort then fixmate 
