@@ -2,13 +2,28 @@
 
 cd /gatk 
 
-for ((i = 228; i <= 248; i++))
+RG1=FCH7NHMBBXX_L1_wHAXPI032499-26
+RG2=FCHC2V5BBXX_L2_wHAXPI032499-26
+
+INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test2
+
+#run fixmate 
+for rg in $RG1 $RG2
 do 
-	echo "beginning SRR8367${i}" date +%T
+	echo "fixmating ${rg}" date +%T
 	#name sort then fixmate 
 	gatk FixMateInformation \
-	-I $SCRATCH/e12/wang_athaliana/marked/markdup_SRR8367"${i}".bam \
-	-O $SCRATCH/e12/wang_athaliana/fix_mate/fixmate_SRR8367"${i}".bam \
-	-ADD_MATE_CIGAR true
-	echo "fixed mate! SRR8367${i}" date +%T
+	-I $INPUT_DIR/markdup_"${rg}".bam \
+	-O $INPUT_DIR/fixmate_"${rg}".bam \
+	echo "fixed mate! ${rg}" date +%T
 done
+
+#merge the files 
+java -jar picard.jar MergeSamFiles \
+      I=$INPUT_DIR/fixmate_"${RG1}".bam \
+      I=$INPUT_DIR/fixmate_"${RG2}".bam \
+      O=$INPUT_DIR/SRR8367185_merge.bam
+
+
+gatk ValidateSamFile -I $INPUT_DIR/SRR8367185_merge.bam 
+
