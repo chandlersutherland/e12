@@ -36,6 +36,7 @@ done
 for f in *.fq
 	do rg_basename=$(basename $f .fastq | sed 's/..$//')
 	echo $rg_basename>>rg_basename.txt
+done
 
 file_name=$(cat basename.txt | sort -u) 
 
