@@ -24,5 +24,5 @@ cd $INPUT_DIR
 #initialize files 
 
 bwa mem -t $SLURM_NTASKS $REF_GENOME $INPUT_DIR/all_1.fastq $INPUT_DIR/all_2.fastq > $OUTPUT_DIR/all_aln.sam
-samtools view -b all_aln.sam all_aln.bam
+samtools view -b -@ $SLURM_NTASKS -o all_aln.bam all_aln.sam
  
