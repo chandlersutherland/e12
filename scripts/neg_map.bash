@@ -5,7 +5,7 @@
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
-#SBATCH --time=15:00:00
+#SBATCH --time=24:00:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
@@ -25,4 +25,4 @@ cd $INPUT_DIR
 
 bwa mem -t $SLURM_NTASKS $REF_GENOME $INPUT_DIR/all_1.fastq $INPUT_DIR/all_2.fastq > $OUTPUT_DIR/all_aln.sam
 samtools view -b all_aln.sam all_aln.bam
-singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_1.bam -P .015625 --TMPDIR $SCRATCH
+ 
