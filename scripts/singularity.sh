@@ -1,3 +1,6 @@
+#!/bin/bash
+#SBATCH --job-name=markdup
+#SBATCH --account=ac_kvkallow
 #SBATCH --partition=savio2
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
