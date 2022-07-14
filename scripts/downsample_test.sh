@@ -14,17 +14,30 @@ module load python
 module load samtools
 
 DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control
+
 cd $DIR
-singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_1.bam -P .015625
+singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_2.bam -P .015625
+echo "neg 2 complete" 
+singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_3.bam -P .015625
+echo "neg 3 complete"
+singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_4.bam -P .015625
+echo "neg 4 complete"
+singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I all_aln.bam -O neg_5.bam -P .015625
+echo "neg 5 complete" 
 
 #time for some qc 
 #With the bam file, I can compute summary statistics and save them in a .csv file 
 
 cd $DIR
-echo "rep,mean_read_depth,breadth" > $DIR/downsample_mapping_stats.csv
-echo "beginning qc" 
-
-MEAN_READ_DEPTH=$(samtools depth -a neg_1.bam | awk '{c++;s+=$3}END{print s/c}')
-BREADTH=$(samtools depth -a neg_1.bam | awk '{c++; if($3>0) total+=1}END{print (total/c)*100}')
-echo "neg_1,${MEAN_READ_DEPTH},${BREADTH}" >> $DIR/downsample_mapping_stats.csv
-echo "$neg_1 mapping statistics written to downsample_mapping_stats.csv"
+for f in neg_*.bam
+do 
+	basename=$(basename $f .bam)
+	OUTPUT_BAM=$DIR/"${basename}".bam
+	echo "beginning ${f}"
+	#generate mapping statistics 
+	name=$basename
+	MEAN_READ_DEPTH=$(samtools depth -a $OUTPUT_BAM | awk '{c++;s+=$3}END{print s/c}')
+	BREADTH=$(samtools depth -a $OUTPUT_BAM | awk '{c++; if($3>0) total+=1}END{print (total/c)*100}')
+	echo "${name},${MEAN_READ_DEPTH},${BREADTH}" >> $DIR/mapping_stats.csv
+	echo "${name} converted and mapping statistics written to mapping_stats.csv"
+done
