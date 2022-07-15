@@ -1,0 +1,17 @@
+Arabidopsis thaliana	Col17	Chr1	9702465	Col17_SL2-3	SNV:C>T	missense_variant
+Arabidopsis thaliana	Col17	Chr1	10921842	Col17_RL3-2;Col17_SL6-2	DEL:GCCATTGAGGATACTGAA	intergenic_variant
+Arabidopsis thaliana	Col17	Chr1	13393397	Col17_RL3-3;Col17_RL4-2;Col17_SL4-1;Col17_SL4-2;Col17_SL8-1	SNV:C>T	non_coding_exon_variant(transposable_element_gene)
+Arabidopsis thaliana	Col17	Chr1	16815984	Col17_SL1-3;Col17_SL4-1;Col17_SL4-3	SNV:G>A	intergenic_variant
+Arabidopsis thaliana	Col17	Chr1	21998047	Col17_SL1-3	SNV:T>A	intergenic_variant
+Arabidopsis thaliana	Col17	Chr2	1957574	Col17_SL6-1;Col17_SL6-2	SNV:C>T	intron_variant
+Arabidopsis thaliana	Col17	Chr2	8992635	Col17_SL4-1	SNV:C>T	missense_variant
+Arabidopsis thaliana	Col17	Chr3	8487834	Col17_SL3-1;Col17_SL3-2	SNV:T>G	intergenic_variant
+Arabidopsis thaliana	Col17	Chr5	4373989	Col17_RL2-3;Col17_RL3-2;Col17_RL4-1;Col17_RL4-3;Col17_SL5-1;Col17_SL6-1;Col17_SL6-2	SNV:C>T	3_prime_UTR_variant
+Arabidopsis thaliana	Col17	Chr5	12929790	Col17_SL4-3;Col17_SL1-1;Col17_SL1-2;Col17_SL1-3	SNV:C>T	non_coding_exon_variant(transposable_element_gene)
+Arabidopsis thaliana	Col24	Chr1	6273570	Col24_RL3-1;Col24_RL4-1	SNV:G>A	intergenic_variant
+Arabidopsis thaliana	Col24	Chr1	10316199	Col24_RL4-1;Col24_RL3-1;Col24_RL1-3;Col24_RL5-1	SNV:C>T	non_coding_exon_variant(transposable_element_gene)
+Arabidopsis thaliana	Col24	Chr1	11354545	Col24_RL4-1	SNV:G>A	missense_variant
+Arabidopsis thaliana	Col24	Chr1	17658851	Col24_SL6-2	SNV:G>A	non_coding_exon_variant(transposable_element_gene)
+Arabidopsis thaliana	Col24	Chr1	19487621	Col24_RL5-1;Col24_SL1-2;Col24_SL1-1;Col24_SL1-3	SNV:A>T	3_prime_UTR_variant
+Arabidopsis thaliana	Col24	Chr2	280858	Col24_SL5-1;Col24_SL5-2;Col24_SL5-3	SNV:T>G	synonymous_variant
+Arabidopsis thaliana	Col24	Chr4	1645079	Col24_SL2-2	SNV:C>A	non_coding_exon_variant(transposable_element_gene)

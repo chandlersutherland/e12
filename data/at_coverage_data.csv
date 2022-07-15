@@ -1,65 +1,65 @@
-Species,Individual ID,Tissue,Sample ID,Total Reads,Clean Data (G),Clean Depth,Mapped Depth (Mapping Quality ò 20),Genome (%) covered by reads ò 5
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL1-1," 32,738,770 ",4.9,40.9,29.21,96.2
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL2-2," 32,650,128 ",4.9,40.8,27.64,85.8
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL2-3," 29,454,162 ",4.4,36.8,25.55,87.2
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-1," 30,862,136 ",4.6,38.6,26.31,87.9
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-2," 34,924,184 ",5.2,43.7,30.31,89.5
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-3," 29,376,968 ",4.4,36.7,23.95,88
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-1," 33,977,238 ",5.1,42.5,29.21,93
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-2," 38,877,398 ",5.8,48.6,33.39,90.1
-Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-3," 29,222,794 ",4.4,36.5,25.35,88
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-1," 32,034,752 ",4.8,40.0,29.73,97.8
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-2," 35,239,916 ",5.3,44.0,30.11,88.1
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-3," 33,000,296 ",5.0,41.3,29.18,90.5
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-1," 33,189,846 ",5.0,41.5,28.81,90.1
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-2," 68,657,076 ",10.3,85.8,54.5,91
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-3," 55,699,886 ",8.4,69.6,46.04,88.2
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-1," 55,313,548 ",8.3,69.1,47.43,93
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-2," 63,975,280 ",9.6,80.0,53.27,94.9
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-3," 56,915,066 ",8.5,71.1,49.64,95.3
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-1," 69,025,964 ",10.4,86.3,61.34,98.5
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-2," 35,731,266 ",5.4,44.7,32.98,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-3," 39,098,630 ",5.9,48.9,36.07,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL5-1," 35,684,608 ",5.4,44.6,33.78,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL5-3," 40,832,158 ",6.1,51.0,37.85,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL6-1," 42,806,832 ",6.4,53.5,39.67,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL6-2," 39,340,542 ",5.9,49.2,37.16,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL7-1," 37,439,300 ",5.6,46.8,34.52,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL7-2," 41,594,842 ",6.2,52.0,38.17,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL8-1," 37,198,408 ",5.6,46.5,34.23,98.4
-Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL8-2," 41,958,784 ",6.3,52.4,38.88,98.4
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-1," 41,075,900 ",6.2,51.3,34.44,92.2
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-2," 32,905,176 ",4.9,41.1,28.19,89.2
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-3," 33,331,032 ",5.0,41.7,25.96,91.1
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL2-1," 45,405,534 ",6.8,56.8,37.45,92.2
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL2-3," 48,734,636 ",7.3,60.9,42.98,98.1
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-1," 49,305,696 ",7.4,61.6,39.32,93.3
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-2," 47,954,746 ",7.2,59.9,37.47,92.1
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-3," 50,313,970 ",7.5,62.9,39.68,96.8
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-1," 66,482,198 ",10.0,83.1,46.47,91.3
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-2," 59,898,446 ",9.0,74.9,48.94,95
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-3," 69,143,636 ",10.4,86.4,55.52,97.4
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL5-1," 54,375,202 ",8.2,68.0,44.1,96.1
-Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL5-3," 52,522,294 ",7.9,65.7,43.05,89.8
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-1," 36,078,984 ",5.4,45.1,33.92,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-2," 29,302,872 ",4.4,36.6,24.03,90.1
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-3," 31,613,390 ",4.7,39.5,29.49,96.9
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-1," 36,536,530 ",5.5,45.7,34.47,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-2," 45,195,408 ",6.8,56.5,43.32,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-3," 35,734,854 ",5.4,44.7,31.82,93.1
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-1," 46,814,346 ",7.0,58.5,43.26,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-2," 44,247,786 ",6.6,55.3,41.74,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-3," 48,688,346 ",7.3,60.9,46.3,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-1," 44,855,796 ",6.7,56.1,41.98,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-2," 38,263,850 ",5.7,47.8,36.86,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-3," 35,395,576 ",5.3,44.2,34.68,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-1," 40,021,150 ",6.0,50.0,38.82,98.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-2," 30,720,956 ",4.6,38.4,28.36,91.7
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-3," 30,462,140 ",4.6,38.1,27.76,92.6
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL6-2," 29,145,866 ",4.4,36.4,26.79,92.9
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL7-1," 35,642,880 ",5.3,44.6,31.48,90.6
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL7-2," 49,698,526 ",7.5,62.1,42.15,91.6
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL8-2," 38,731,984 ",5.8,48.4,32.63,87.4
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL8-3," 43,890,680 ",6.6,54.9,37.77,90.2
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL9-1," 34,097,590 ",5.1,42.6,29.65,87.9
-Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL9-2," 33,600,348 ",5.0,42.0,30.09,88.2
+Species,Individual ID,Tissue,Sample ID,Total Reads,Clean Data (G),Clean Depth,Mapped Depth (Mapping Quality ? 20),Genome (%) covered by reads ? 5
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL1-1,"32,738,770",4.9,40.9,29.21,96.2
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL2-2,"32,650,128",4.9,40.8,27.64,85.8
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL2-3,"29,454,162",4.4,36.8,25.55,87.2
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-1,"30,862,136",4.6,38.6,26.31,87.9
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-2,"34,924,184",5.2,43.7,30.31,89.5
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL3-3,"29,376,968",4.4,36.7,23.95,88
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-1,"33,977,238",5.1,42.5,29.21,93
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-2,"38,877,398",5.8,48.6,33.39,90.1
+Arabidopsis thaliana,Col17,Rosette Leaf,Col17_RL4-3,"29,222,794",4.4,36.5,25.35,88
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-1,"32,034,752",4.8,40,29.73,97.8
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-2,"35,239,916",5.3,44,30.11,88.1
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL1-3,"33,000,296",5,41.3,29.18,90.5
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-1,"33,189,846",5,41.5,28.81,90.1
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-2,"68,657,076",10.3,85.8,54.5,91
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL2-3,"55,699,886",8.4,69.6,46.04,88.2
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-1,"55,313,548",8.3,69.1,47.43,93
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-2,"63,975,280",9.6,80,53.27,94.9
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL3-3,"56,915,066",8.5,71.1,49.64,95.3
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-1,"69,025,964",10.4,86.3,61.34,98.5
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-2,"35,731,266",5.4,44.7,32.98,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL4-3,"39,098,630",5.9,48.9,36.07,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL5-1,"35,684,608",5.4,44.6,33.78,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL5-3,"40,832,158",6.1,51,37.85,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL6-1,"42,806,832",6.4,53.5,39.67,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL6-2,"39,340,542",5.9,49.2,37.16,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL7-1,"37,439,300",5.6,46.8,34.52,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL7-2,"41,594,842",6.2,52,38.17,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL8-1,"37,198,408",5.6,46.5,34.23,98.4
+Arabidopsis thaliana,Col17,Stem Leaf,Col17_SL8-2,"41,958,784",6.3,52.4,38.88,98.4
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-1,"41,075,900",6.2,51.3,34.44,92.2
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-2,"32,905,176",4.9,41.1,28.19,89.2
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL1-3,"33,331,032",5,41.7,25.96,91.1
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL2-1,"45,405,534",6.8,56.8,37.45,92.2
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL2-3,"48,734,636",7.3,60.9,42.98,98.1
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-1,"49,305,696",7.4,61.6,39.32,93.3
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-2,"47,954,746",7.2,59.9,37.47,92.1
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL3-3,"50,313,970",7.5,62.9,39.68,96.8
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-1,"66,482,198",10,83.1,46.47,91.3
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-2,"59,898,446",9,74.9,48.94,95
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL4-3,"69,143,636",10.4,86.4,55.52,97.4
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL5-1,"54,375,202",8.2,68,44.1,96.1
+Arabidopsis thaliana,Col24,Rosette Leaf,Col24_RL5-3,"52,522,294",7.9,65.7,43.05,89.8
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-1,"36,078,984",5.4,45.1,33.92,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-2,"29,302,872",4.4,36.6,24.03,90.1
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL1-3,"31,613,390",4.7,39.5,29.49,96.9
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-1,"36,536,530",5.5,45.7,34.47,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-2,"45,195,408",6.8,56.5,43.32,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL2-3,"35,734,854",5.4,44.7,31.82,93.1
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-1,"46,814,346",7,58.5,43.26,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-2,"44,247,786",6.6,55.3,41.74,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL3-3,"48,688,346",7.3,60.9,46.3,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-1,"44,855,796",6.7,56.1,41.98,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-2,"38,263,850",5.7,47.8,36.86,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL4-3,"35,395,576",5.3,44.2,34.68,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-1,"40,021,150",6,50,38.82,98.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-2,"30,720,956",4.6,38.4,28.36,91.7
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL5-3,"30,462,140",4.6,38.1,27.76,92.6
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL6-2,"29,145,866",4.4,36.4,26.79,92.9
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL7-1,"35,642,880",5.3,44.6,31.48,90.6
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL7-2,"49,698,526",7.5,62.1,42.15,91.6
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL8-2,"38,731,984",5.8,48.4,32.63,87.4
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL8-3,"43,890,680",6.6,54.9,37.77,90.2
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL9-1,"34,097,590",5.1,42.6,29.65,87.9
+Arabidopsis thaliana,Col24,Stem Leaf,Col24_SL9-2,"33,600,348",5,42,30.09,88.2
