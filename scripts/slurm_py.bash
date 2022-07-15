@@ -14,4 +14,4 @@
 module load python
 module load samtools
 
-python $HOME/e12/scripts/add_rg_singleton.py 
+python $HOME/e12/scripts/add_rg_duplicate.py 
