@@ -1,10 +1,10 @@
 #!/bin/bash
 #SBATCH --job-name=tester_rg
 #SBATCH --account=ac_kvkallow
-#SBATCH --partition=savio2
+#SBATCH --partition=savio
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=24
+#SBATCH --ntasks-per-node=20
 #SBATCH --time=05:00:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
