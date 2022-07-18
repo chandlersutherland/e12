@@ -14,7 +14,7 @@ do
 	#name sort then fixmate 
 	gatk FixMateInformation \
 	-I $INPUT_DIR/markdup_"${rg}".bam \
-	-O $INPUT_DIR/fixmate_"${rg}".bam \
+	-O $INPUT_DIR/fixmate_"${rg}".bam 
 	echo "fixed mate! ${rg}" date +%T
 done
 
