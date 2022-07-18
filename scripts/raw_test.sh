@@ -13,6 +13,7 @@
 
 module load python
 module load bwa
+module load samtools
 
 #document goal: pump the raw fastq files with rg info through the pipeline, try my darndest to get rid of the weird rg flags!
 #also a good rough draft for future all inclusive pipelines 
