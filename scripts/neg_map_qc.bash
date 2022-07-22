@@ -10,7 +10,8 @@
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
-
+module load python
+module load samtools 
 #do it for neg control 
 INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control
 OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control 
