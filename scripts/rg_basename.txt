@@ -1,0 +1,2 @@
+
+add_rg_duplicate.py add_rg_neg.py add_rg_singleton.py all_map.sh all_map2.bash all_map_qc.sh all_map_rg.sh downsample.sh downsample_test.sh file_con.sh fixmate.sh get_rg.ipynb mapping_qc_rg.bash markdup.sh markdup_rg.sh neg_map.bash neg_map_qc.bash raw_test.sh rg_basename.txt single_map.bash singularity.sh slurm_py.bash sra_wang.sh
