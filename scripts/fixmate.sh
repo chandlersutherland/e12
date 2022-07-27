@@ -10,7 +10,8 @@ do
 	echo "fixmating ${f} $(date +%T)" 
 	#name sort then fixmate 
 	gatk FixMateInformation \
-	-I $f
+	-I $f -ADD_MATE_CIGAR true
+	#no output means it should overwrite, which is fine in this case since raw files are copied elsewhere
 	echo "fixed mate! ${f} $(date +%T)"
 done
 
