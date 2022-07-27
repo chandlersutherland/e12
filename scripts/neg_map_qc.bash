@@ -5,7 +5,7 @@
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
-#SBATCH --time=12:00:00
+#SBATCH --time=24:00:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
@@ -16,11 +16,12 @@ module load samtools
 INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control
 OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control 
 
-OUTPUT_BAM=$OUTPUT_DIR/all.bam
+OUTPUT_BAM=$OUTPUT_DIR/all_aln.bam
 echo "beginning neg_control"
 #convert to bam, sort, and index 
 samtools view -@ $SLURM_NTASKS -b $INPUT_DIR/all_aln.sam |\
 samtools sort -@ $SLURM_NTASKS -T $OUTPUT_DIR/temp > $OUTPUT_BAM
+echo "finished converting and sorting"
 samtools index -@ $SLURM_NTASKS $OUTPUT_BAM
 	
 #generate mapping statistics 
