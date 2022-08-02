@@ -1,6 +1,5 @@
 #!/bin/bash
 #SBATCH --job-name=downsample
-#SBATCH --account=ac_kvkallow
 #SBATCH --partition=savio2
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
@@ -11,7 +10,7 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
-cd $SCRATCH
+cd $SCRATCH/e12/wang_athaliana/neg_control/
 singularity run $HOME/programs/gatk_latest.sif for ((i = 1; i <= 5; i++)); do gatk DownsampleSam -I all_aln.bam -O neg_"${i}".bam -P .015625; done
 
 #time for some qc 
