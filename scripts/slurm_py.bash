@@ -13,4 +13,4 @@
 module load python
 module load samtools
 
-python $HOME/e12/scripts/add_rg_duplicate.py 
+python $HOME/e12/scripts/add_rg_neg.py 
