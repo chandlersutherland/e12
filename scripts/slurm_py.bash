@@ -1,6 +1,5 @@
 #!/bin/bash
 #SBATCH --job-name=replace_singleton_rg
-#SBATCH --account=ac_kvkallow
 #SBATCH --partition=savio2
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
