@@ -11,4 +11,4 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
-singularity run $HOME/programs/gatk_latest.sif "$HOME/e12/scripts/fixmate.sh"
+singularity run $HOME/programs/gatk_latest.sif $GATK_FILE
