@@ -4,7 +4,7 @@
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
-#SBATCH --time=02:00:00
+#SBATCH --time=10:00:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
@@ -17,7 +17,7 @@ DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/neg_control
 INPUT=$DIR/merged_marked_rg.bam
 
 cd $DIR
-singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I $INPUT -O marked_neg_2.bam -P .015625
+singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I $INPUT -O marked_neg_1.bam -P .015625
 echo "neg 2 complete" 
 singularity run $HOME/programs/gatk_latest.sif gatk DownsampleSam -I $INPUT -O marked_neg_3.bam -P .015625
 echo "neg 3 complete"
