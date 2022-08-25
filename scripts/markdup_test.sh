@@ -10,6 +10,8 @@
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
 #SBATCH --output=/global/home/users/chandlersutherland/slurm_stdout/slurm-%j.out
 
+module load samtools
+module load python 
 #try on the otherwise preprocessed data to see if removing -R flag from markdup fixes it 
 echo "beginning /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg/FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam"
 #name sort then fixmate 

@@ -1,7 +1,7 @@
 import os 
 import pandas as pd 
 
-rg=pd.read_csv('/global/home/users/chandlersutherland/e12/data/singleton_rg_3.tsv', sep='\t', header=None)
+rg=pd.read_csv('/global/home/users/chandlersutherland/e12/data/rg_names.tsv', sep='\t', header=None)
 
 for i in range(0, len(rg)):
     accession=rg.iloc[i,0]
