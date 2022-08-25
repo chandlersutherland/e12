@@ -15,9 +15,9 @@ module load python
 #try on the otherwise preprocessed data to see if removing -R flag from markdup fixes it 
 echo "beginning /global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg/FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam"
 #name sort then fixmate 
-$INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg
-$TEST_FILE=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg/FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
-$OUTPUT_DIR/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test/markdup_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg
+TEST_FILE=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted_rg/FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test/markdup_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
 samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
 samtools fixmate -m -@ $SLURM_NTASKS - - |\
