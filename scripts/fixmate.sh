@@ -5,7 +5,8 @@ cd /gatk
 INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/pre_processed
 
 #run fixmate 
-for f in $INPUT_DIR/*.bam
+
+for f in $INPUT_DIR/marked_neg_*.bam
 do 
 	echo "fixmating ${f} $(date +%T)" 
 	#name sort then fixmate 
