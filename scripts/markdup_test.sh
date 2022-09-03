@@ -20,16 +20,18 @@ TEST_FILE=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted
 OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test2
 
 samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
-samtools fixmate -m -c -r -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+samtools fixmate -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_nom_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
-samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
-samtools fixmate -m -r -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+#samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
+#samtools fixmate -m -r -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
 
-samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
+samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_nom_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
 samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
-samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
-samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+#samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
+#samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
+export INPUT_FILE='${OUTPUT_DIR}/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam'
+singularity run $HOME/programs/gatk_latest.sif $HOME/e12/scripts/validate_sam.bash
 echo "finished"
