@@ -44,6 +44,10 @@ do
 	samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS - |\
 	samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_"${rg}".bam
 	
+	echo "validate"
+	export INPUT_FILE='${OUTPUT_DIR}/markdup_${rg}.bam'
+	singularity run $HOME/programs/gatk_latest.sif $HOME/e12/scripts/validate_sam.bash
 	echo "${rg} is ready for gatk!"
 done 
 
+echo "finished"
