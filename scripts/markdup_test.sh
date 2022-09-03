@@ -4,7 +4,7 @@
 #SBATCH --qos=savio_normal
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
-#SBATCH --time=01:00:00
+#SBATCH --time=00:10:00
 #SBATCH --mail-user=chandlersutherland@berkeley.edu
 #SBATCH --mail-type=ALL
 #SBATCH --error=/global/home/users/chandlersutherland/slurm_stderr/slurm-%j.out
@@ -20,16 +20,16 @@ TEST_FILE=/global/scratch/users/chandlersutherland/e12/wang_athaliana/bam_sorted
 OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test2
 
 samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
-samtools fixmate -m -c -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_c_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+samtools fixmate -m -c -r -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
 samtools sort -n -T $INPUT_DIR/temp -@ $SLURM_NTASKS $TEST_FILE|\
-samtools fixmate -m -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+samtools fixmate -m -r -@ $SLURM_NTASKS - $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
 
-samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_c_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
-samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_c_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
+samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
-samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
-samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
+samtools sort -T $INPUT_DIR/temp2 -@ $SLURM_NTASKS $OUTPUT_DIR/fixmate_r_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam |\
+samtools markdup -T $INPUT_DIR/temp3 -s -@ $SLURM_NTASKS - $OUTPUT_DIR/markdup_cr_FCH7NHMBBXX_L1_wHAXPI032499-26_rg.bam
 
 echo "finished"
