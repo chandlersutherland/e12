@@ -20,7 +20,7 @@ module load samtools
 
 #define some variables 
 OUTPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/rg_map_test2
-INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/raw_files/SRR8367185
+INPUT_DIR=/global/scratch/users/chandlersutherland/e12/wang_athaliana/all_fastq/raw_files/SRR8367185
 REF_GENOME=/global/scratch/users/chandlersutherland/phytozome/Athaliana/Araport11/assembly/Athaliana_447_TAIR10.fa
 
 RG1=FCH7NHMBBXX_L1_wHAXPI032499-26
