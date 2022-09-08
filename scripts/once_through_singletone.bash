@@ -30,7 +30,7 @@ RG=FCHC2TWBBXX_L1_wHAXPI032572-47
 accession=SRR8367191
 
 #map with bwa mem. I am not going to save intermediate files, so pipe through to sorted and indexed bam 
-bwa mem -t 12 $REF_GENOME $INPUT_DIR/"${accession}"_1.fq $INPUT_DIR/"${accession}"_2.fq |
+bwa mem -t 12 $REF_GENOME $INPUT_DIR/"${accession}"_1.fastq $INPUT_DIR/"${accession}"_2.fastq |
 samtools view -@ $SLURM_NTASKS -b - |\
 samtools sort -@ $SLURM_NTASKS -T $OUTPUT_DIR/temp > $OUTPUT_DIR/"${accession}".bam
 samtools index -@ $SLURM_NTASKS $OUTPUT_DIR/"${accession}".bam
